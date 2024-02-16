@@ -3,5 +3,6 @@ public class Main {
         System.out.println("hi me");
         System.out.println("another line");
         System.out.println("yet another line");
+        System.out.println("fourth");
     }
 }
